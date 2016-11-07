@@ -1,5 +1,5 @@
 # JavaConcurrencyInPractice
-Java Concurrency In Practice.There are many features for Java developer to reference in real develop events. 
+Java Concurrency In Practice.There are many features for Java developers to reference in real develop events. 
 
 # Based on Brian Goetz's book 'Java Concurrency In Practice'
 You can read more information about that book from  http://jcip.net/.
